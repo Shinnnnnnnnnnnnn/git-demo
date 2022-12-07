@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello!
 hello!
 hello!
@@ -7,4 +8,12 @@ hello!
 hello!
 hello!
 hello!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
+hello atguigu! hello git!
 22223333
